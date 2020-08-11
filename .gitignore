@@ -1,4 +1,5 @@
 nano ignore-me.db
 nano .gitignore
 
-/large-directory-that-should-be-local-only
+/large-directory-that-should-be-local-only 
+.
